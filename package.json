@@ -1,8 +1,8 @@
 {
     "name": "web3werx-material-react-free",
-    "version": "1.0",
+    "version": "3.0.1",
     "private": true,
-    "homepage": "https://www.web3werx.com/",
+    "homepage": "https://web3werx.com",
     "dependencies": {
         "@emotion/cache": "^11.4.0",
         "@emotion/react": "^11.4.0",
